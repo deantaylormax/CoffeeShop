@@ -1,0 +1,6 @@
+.float-box {
+    border-radius: 37px;
+    background: #2B3E50;
+    box-shadow:  6px 6px 12px #253544,
+                 -6px -6px 12px #31475c;
+}
