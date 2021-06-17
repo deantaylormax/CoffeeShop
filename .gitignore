@@ -2,3 +2,8 @@
 /sample_data.ipynb
 /weather.ipynb
 /weather.py
+
+
+#python notebooks
+
+*.ipynb
